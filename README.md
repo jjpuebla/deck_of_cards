@@ -24,3 +24,34 @@ You will be building a deck of cards in Ruby.   To accomplish this, you must imp
 Your goal is to make as many of the specs pass as you can.   You can run all of the specs by running `rspec -fd` from the root of this directory.  Alternatively you can run the "Deck Specks" by running `rspec spec/deck_spec.rb`, or the "Card Specs" by running `rspec spec/card_spec`.
 
 There are some **BONUS** specs in `spec/card_spec`.  They are set to pending with an `x` in front of the word `context`.  If you finish all the regular specs, remove the `x` to turn on the bonus specs.
+
+
+
+
+# Deck of cards
+
+## Description
+This is a Ruby project to test with rspec library.
+
+## installation
+In order to clone this repository and run the rspec tests, follow these steps:
+
+- ensure you have ruby installed on your computer
+
+```bash 
+git clone <https://github.com/wyncode/cards_and_decks/tree/cards_jose_puebla>
+cd <reponame>
+rspec
+```
+## Usage (Demonstration, Feature List, Functionality)
+the first peace of fucntinality i create a class... an exampe how that looks like.  The the test look like this
+image screen shott
+
+
+## Roadmap
+I would lik e to build
+
+I am open to collaoration
+
+
+
